@@ -25,9 +25,9 @@ Python 3.x<br>
 Unittest framework for testing<br>
 <h3>Installation</h3>
 To get started with this project, clone the repository and install the required dependencies:<br>
-<code backgroundcolor="black",color="white">
+<code bgcolor="black",color="white">
   git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+  cd repository-name
 </code><br>
 
 
